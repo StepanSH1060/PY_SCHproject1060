@@ -16,7 +16,7 @@ class Student:
     def To_beat(self, beating_name="", beated_name=""):
         print(f"Ужас!{beating_name} побил {beated_name}")
 
-stdnt = Student()
-stdnt.hello_teacher("Степан")
+from summator import make_sum_num
+# выполняется весь код
 
-
+print("qwerty")
